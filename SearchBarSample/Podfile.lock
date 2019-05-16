@@ -1,0 +1,16 @@
+PODS:
+  - RAMReel (4.1.0)
+
+DEPENDENCIES:
+  - RAMReel
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - RAMReel
+
+SPEC CHECKSUMS:
+  RAMReel: 198e41f62d65f54c44797679ade03b4a1cef9709
+
+PODFILE CHECKSUM: b561b2c31bd466472e99a7279f6d85abf8741df1
+
+COCOAPODS: 1.6.1
